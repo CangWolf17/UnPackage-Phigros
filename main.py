@@ -27,4 +27,4 @@ while number <= int(allcount):
 
     except:
 
-        print("Error:"+str(number)) 作者：我觉得你长得很省电 https://www.bilibili.com/read/cv15503487?from=search&spm_id_from=333.337.0.0 出处：bilibili
+        print("Error:"+str(number))
